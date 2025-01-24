@@ -10,4 +10,4 @@ function addtask(){
     li.appendChild(button);
     ol.appendChild(li);
     document.getElementById("input").value="";
-}6
+}
